@@ -154,9 +154,9 @@ A step-by-step implementation of a highly available web application with VPC, NA
 
 - **User Data Script**
 
-  - ![Script-WebApp_Server1](files/Script-WebApp_Server1.sh)
+  - [Script-WebApp_Server1](files/Script-WebApp_Server1.sh)
 
-  - ![Script-WebApp_Server2](files/Script-WebApp_Server2.sh)
+  - [Script-WebApp_Server2](files/Script-WebApp_Server2.sh)
 
 ![Lab3-Img12](images/Lab3-Img12.png)
 
@@ -234,7 +234,7 @@ curl http://"instanceprivateip"
 
 ![Lab5-Img4](images/Lab5-Img4.png)
 
-- user data ![Script-LaunchTemplate](files/Script-LaunchTemplate.sh)   
+- user data [Script-LaunchTemplate](files/Script-LaunchTemplate.sh)   
 
 ![Lab5-Img5](images/Lab5-Img5.png)
 
