@@ -2,6 +2,8 @@
 
 A step-by-step implementation of a highly available web application with VPC, NAT Gateways, ALB, and Auto Scaling.
 
+![Topologie](images/Topologie.png)
+
 ---
 
 ## Lab 1: Creating the VPC and Subnets 🏗️
