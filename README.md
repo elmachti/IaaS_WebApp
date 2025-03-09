@@ -2,7 +2,7 @@
 
 A step-by-step implementation of a highly available web application with VPC, NAT Gateways, ALB, and Auto Scaling.
 
-![Topologie](images/Topologie.png)
+![Topologiev1](images/Topologiev1.png)
 
 ---
 
